@@ -389,14 +389,13 @@ a:hover {
   -webkit-transition-duration: 500ms;
   transition-timing-function: cubic-bezier(0.86, 0, 0.07, 1);
   -webkit-transition-timing-function: cubic-bezier(0.86, 0, 0.07, 1);
-  background: #000;
-  background-image: url("../images/pattern-bg.png");
+  background: #f7f7f8;
   background-position: center;
   background-size: cover;
   z-index: 6;
   box-shadow: 0 0 60px rgba(0, 0, 0, 0.4);
   padding: 20px 30px;
-  color: #fff;
+  color: #442e30;
 }
 .side-widget .inner {
   display: flex;
@@ -435,7 +434,7 @@ a:hover {
 .side-widget p {
   width: 100%;
   display: block;
-  color: #fff;
+  color: #442e30;
 }
 .side-widget .widget-title {
   display: inline-block;
@@ -466,7 +465,7 @@ a:hover {
   list-style: none;
 }
 .side-widget .social-media li a {
-  color: #fff;
+  color: #442e30;
   font-size: 13px;
   font-weight: 600;
 }
@@ -586,7 +585,7 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   background: #f7f7f8;
-  color: #fff;
+  color: #ee8b34;
   background-size: cover;
   position: absolute;
   left: 50%;
