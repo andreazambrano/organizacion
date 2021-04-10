@@ -15,7 +15,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Poppins";
-  font-size: 17px;
+  font-size: 16px;
   color: #212529;
 }
 
@@ -410,7 +410,7 @@ a:hover {
   margin-bottom: 40px;
 }
 .side-widget .logo img {
-  height: 49px;
+  height: 70px;
 }
 .side-widget .show-mobile {
   display: none;
@@ -450,7 +450,7 @@ a:hover {
 }
 .side-widget .address a {
   display: inline-block;
-  color: #fff;
+  color: #442e30;;
 }
 .side-widget .social-media {
   width: 100%;
@@ -496,7 +496,7 @@ a:hover {
   margin-bottom: 10px;
 }
 .side-widget .site-menu ul li a {
-  color: #fff;
+  color: #442e30;
   font-size: 18px;
   font-weight: 600;
 }
@@ -505,7 +505,7 @@ a:hover {
   color: #fece48;
 }
 .side-widget small {
-  font-size: 11px;
+  font-size: 20px;
   width: 100%;
   display: block;
   margin-top: 20px;
@@ -587,9 +587,9 @@ a:hover {
   background: #f7f7f8;
   color: #ee8b34;
   background-size: cover;
-  position: absolute;
-  left: 50%;
-  top: 50px;
+  position: fixed;
+  left: 50%;/*
+  top: 40px;*/
   padding: 15px 0;
   transform: translateX(-50%);
   border-radius: 4px;
@@ -1095,7 +1095,7 @@ a:hover {
   padding-left: 10%;
 }
 .side-content h2 {
-  font-size: 80px;
+  font-size: 65px;
   color: #ee8a35;
   font-family: "Oduda";
 }
@@ -1585,7 +1585,7 @@ a:hover {
   width: 50%;
   display: inline-block;
   padding: 50px;
-  text-align: center;
+  text-align: left;
 }
 .side-image-box .content h3 {
   display: block;
@@ -2558,7 +2558,7 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   padding-top: 100px;
-  background: url("../images/pattern-bg.png") center #ee8a35;
+  background: #ee8a35;
   background-size: cover;
   color: #fff;
   border-top: 3px solid #fece48;
