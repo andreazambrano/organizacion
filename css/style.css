@@ -909,7 +909,7 @@ a:hover {
 .content-section {
   width: 100%;
   display: block;
-  padding: 100px 0;
+  padding: 20px 0;
   position: relative;
   background-size: cover !important;
 }
@@ -922,6 +922,10 @@ a:hover {
 .bottom-white-space {
   padding-bottom: 0;
   position: relative;
+}
+.bottom-white-space1 {
+  padding-bottom: 0;
+  position: unset;
 }
 .bottom-white-space:after {
   content: "";
