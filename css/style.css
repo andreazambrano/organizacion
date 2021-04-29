@@ -858,7 +858,7 @@ a:hover {
 /* PAGE HEADER */
 .page-header {
   width: 100%;
-  height: 700px;
+  height: 300px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -1171,8 +1171,8 @@ a:hover {
   right: 30px;
   bottom: -30px;
   z-index: 1;
-  padding: 40px;
-  border-radius: 2px;
+  padding: 10px;
+  border-radius: 10px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
 }
 .side-image .big-note-box:after {
@@ -1363,7 +1363,7 @@ a:hover {
 
 /* CAROUSEL IMAGE BOX */
 .carousel-image-box {
-  width: calc(100% - 200px);
+  width: calc(100% - 161px);
   display: block;
   overflow: hidden;
   margin: 0 100px;
@@ -1376,18 +1376,18 @@ a:hover {
   margin-bottom: 0;
 }
 .carousel-image-box figure img {
-  width: 100%;
+  width: 105%;
   display: block;
   border-top-left-radius: 6px;
   border-top-right-radius: 6px;
 }
 .carousel-image-box .content {
-  width: 100%;
+  width: 105%;
   display: block;
   background: #fff;
-  padding: 30px;
-  border-bottom-left-radius: 6px;
-  border-bottom-right-radius: 6px;
+  padding: 20px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 .carousel-image-box .content small {
   display: inline-block;
@@ -2206,7 +2206,7 @@ a:hover {
 /* HIGHLIGHT SLIDER */
 .highlight-slider {
   width: 100%;
-  height: 90vh;
+  height: 70vh;
   display: flex;
   flex-wrap: wrap;
   position: relative;
