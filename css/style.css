@@ -803,7 +803,7 @@ a:hover {
   line-height: 60px;
   text-align: center;
   position: absolute;
-  left: 50px;
+  left: 20px;
   top: calc(50% - 20px);
   border: 2px solid #fff;
   border-radius: 50%;
@@ -827,7 +827,7 @@ a:hover {
   line-height: 60px;
   text-align: center;
   position: absolute;
-  right: 50px;
+  right: 20px;
   top: calc(50% - 20px);
   border: 2px solid #fff;
   border-radius: 50%;
@@ -1363,12 +1363,12 @@ a:hover {
 
 /* CAROUSEL IMAGE BOX */
 .carousel-image-box {
-  width: calc(100% - 161px);
+  width: calc(100% - 180px);
   display: block;
   overflow: hidden;
   margin: 0 100px;
   position: relative;
-  padding-bottom: 50px;
+  padding-bottom: 10px;
 }
 .carousel-image-box figure {
   width: 100%;
